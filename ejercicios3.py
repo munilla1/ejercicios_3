@@ -15,8 +15,3 @@ for divisor in range(1, numero + 1):
         contador += 1
 #print(numero, contador)
 
-
-print ("------------ejercicio numero 24:-------------")
-texto = ["verde que te quiero verde"]
-for x in "hola":
-    print(x)
